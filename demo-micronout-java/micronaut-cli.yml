@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.uniliva
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, flyway, gradle, h2, http-client, java, java-application, junit, logback, netty-server, readme, shade, yaml]
